@@ -1,0 +1,31 @@
+.row {
+    display: flex;
+}
+.col {
+    justify-content: space-evenly;
+    background-color: rgb(57, 116, 96);
+    text-align: center;
+    margin-top: 20px;
+    color:azure;
+    flex: 1;
+    margin: 3px;
+    height: 50px;
+}
+.col-2 {
+    justify-content: space-evenly;
+    background-color: rgb(57, 116, 96);
+    flex: 2;
+    margin: 3px;
+    height: 50px;
+    color:azure;
+    text-align: center;
+}
+.col-3 {
+    justify-content: space-evenly;
+    background-color: rgb(57, 116, 96);
+    flex: 3;
+    margin: 3px;
+    height: 50px;
+    color:azure;
+    text-align: center;
+}
